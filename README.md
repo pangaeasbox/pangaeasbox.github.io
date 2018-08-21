@@ -1,4 +1,4 @@
-# Visit the site at pangaeasbox.github.io
+## Visit the site at [pangaeasbox.github.io](pangaeasbox.github.io)
 
 ## List of wants:
 ### Site
