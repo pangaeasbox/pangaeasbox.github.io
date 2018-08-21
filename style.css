@@ -1,42 +1,69 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1526243741027-444d633d7365?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=91cd8f3f1c7e6ebdfaaa347cfeadebb8");
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+}
+
+.root {
+  width: 700px;
+  margin: 25px auto;
+
+}
+
+.card {
+  background: #fff;
+  padding: 25px;
+  font-family: Roboto;
+  font-weight: bold;
+  text-align: center;
+}
+
+.button {
+  background-color:#F26419; 
+  border-radius: 60px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 3px;
+  font-weight: bold;
+}
+
+.next {
+  width: 100px;
+  margin: auto;
+  padding: 30px
+}
+
 h2 {
-    font-family: 'Cherry Cream Soda', cursive;
-    font-size: 38px;
-    text-align: center;
+  font-family: 'Cherry Cream Soda', cursive;
+  font-size: 30px;
+  text-align: center;
+  color: #6c6c6c;
 }
 
 h1 {
-    font-family: 'Cherry Cream Soda', cursive;
-    font-size: 72px;
-    text-align: center;
+  font-family: 'Cherry Cream Soda', cursive;
+  font-size: 60px;
+  text-align: center;
+  color: #6c6c6c;
 }
 
 
 h3 {
-    font-family: 'Cherry Cream Soda', cursive;
-    text-align: center;
+  font-family: 'Cherry Cream Soda', cursive;
+  text-align: center;
+  color: #6c6c6c;
 }
 
 p {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
+  color: orange;
+  letter-spacing: 3px;
 }
 
-ul {
-  font-family: 'Open Sans', sans-serif;
-  text-align: center;
-  list-style-type: none;
-}
 
-#note {
-  background-color: #66cccc;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  border-radius: 25px;
-}
 
-#tbd {
-  background-color: #E4E2E1;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  border-radius: 25px;
-}
