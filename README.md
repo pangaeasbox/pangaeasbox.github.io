@@ -2,7 +2,6 @@
 
 ## List of wants:
 ### Site
-- Responsiveness
 - Background image matching location
 - Additional section where you can select your location
 
